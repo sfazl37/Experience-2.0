@@ -544,14 +544,14 @@
                         <div class="contact-name">Pousali (Black Panther)</div>
                         <div class="contact-detail">📇 Employee ID: F747947</div>
                         <div class="contact-detail">📧 Email: pousali.das@jll.com</div>
-                        <div class="contact-detail">📱 Phone: +1 (555) 234-5678</div>
+                        <div class="contact-detail">📱 Phone: +91 98745 689212</div>
                     </li>
                     <li class="contact-item">
                         <div class="contact-icon">🦸</div>
                         <div class="contact-name">Akhil (Tony Stark)</div>
                         <div class="contact-detail">📇 Employee ID: N750530</div>
                         <div class="contact-detail">📧 Email: akhil.pandey@jll.com</div>
-                        <div class="contact-detail">📱 Phone: +1 (555) 345-6789</div>
+                        <div class="contact-detail">📱 Phone: +91 99484 10783</div>
                     </li>
                 </ul>
                 
