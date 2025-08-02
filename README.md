@@ -488,10 +488,9 @@
             <div class="slide-number">6/8</div>
             <h2><span class="slide-emoji">🔍</span> Vertical-Based Experience Audits</h2>
             <ul>
-                <li><span class="emoji">🏢</span> Facilities: Evaluate workspaces, lighting, and comfort</li>
-                <li><span class="emoji">💻</span> Technology: Assess hardware/software usage and support</li>
+                <li><span class="emoji">🏢</span> Facilities: Evaluate workspaces, and it's comfort</li>
+                <li><span class="emoji">💻</span> Benefits: Assess and support to all the different verticals</li>
                 <li><span class="emoji">🧘</span> Wellbeing: Review break areas and noise levels</li>
-                <li><span class="emoji">🆕</span> Onboarding: Audit new hire experience and resources</li>
             </ul>
             <div class="visual">🔍 Visual: Magnifying glass inspecting a checklist</div>
             <div class="footer">Author: Akhil ✍️</div>
